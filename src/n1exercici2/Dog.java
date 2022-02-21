@@ -18,7 +18,7 @@ public class Dog extends Animal {
 		System.out.println("Woof, woof woof!");
 		
 	}
-	
+
 	/**
 	 * @deprecated
 	 * 
